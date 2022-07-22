@@ -7,3 +7,7 @@
 
 Cymetaverse체인에 덱스가 생긴 후에 initialize하여 커뮤니티 토큰으로서 활용할 수 있다.
 원활한 작동을 위해 덱스에서 메인으로 사용하는 wrapped DOTR 또한 필요하다.
+
+### 배포주소
+Tx : 0x568ad97be250c17eb9115f884078546705afdff954cc6b6131574325654bdabf
+CA : 0x4446de73bdef6d84452d2137EB44792b3c4687Fe
